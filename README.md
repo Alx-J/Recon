@@ -1,6 +1,6 @@
 # README
 
-## Scan Script
+## ScanShark.sh
 
 This script performs a comprehensive scan on a given IP address using `nmap`. It includes both TCP and UDP scans and saves the results to text files.
 
@@ -9,4 +9,4 @@ This script performs a comprehensive scan on a given IP address using `nmap`. It
 To run the script, use the following command:
 
 ```bash
-./script.sh <IP_ADDRESS>
+./ScanShark.sh <IP_ADDRESS>
